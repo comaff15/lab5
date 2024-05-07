@@ -44,5 +44,5 @@ console.log('To bin\n')
 console.log(intToBitString(90, 8, false));
 console.log(intToBitString(-90, 8, false));
 console.log(floatToBin(24.5));
-console.log('System info\n')
+console.log('\nSystem info\n')
 info.getSysInfo()
